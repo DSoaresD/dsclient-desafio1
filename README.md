@@ -1,4 +1,4 @@
-# DS CLients
+# DS Clients
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DSoaresD/dsclient-desafio1/blob/main/LICENSE)
 
 # Sobre o projeto
